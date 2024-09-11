@@ -27,7 +27,7 @@ h1 {
 }
 
 .scenario-box, .choices-box, .result-box {
-    margin: 10px 0;
+    margin: 10px 5px;
     padding: 15px;
     background-color: #eee;
     border-radius: 5px;
