@@ -9,7 +9,7 @@ let multiplier = 1;
 let correctStreak = 0;
 let timer;
 
-// Additional scenarios to make the game more interesting
+// Additional scenarios 
 
 const scenarios = [
     {
@@ -103,9 +103,6 @@ const scenarios = [
         resultInvalid: "Incorrect! You should challenge the policy in court under Article 32."
     }
 ];
-
-
-// Don't forget to replace the existing array of scenarios with this expanded array in your game code!
 
 
 // Function to load the current scenario
